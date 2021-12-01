@@ -1,0 +1,15 @@
+{
+  "validationError":{
+    "incorrectEmail":"Invalid email address",
+    "incorrectPassword":"Must be more than 6 and less than 50 characters",
+    "incorrectPhoneNo":"Invalid Phone Number",
+    "incorrectName":"must be more than 6 and less than 30 characters",
+    "requiredField":"Required"
+  },
+  "apiServicesMsg":{
+    "tokenExpired":"Token expired . please try again sometime",
+    "userExist":"User with this email already exist!",
+    "incorrectInfo":"Please provide correct details!!",
+    "somethingWrong":"Something Went Wrong"
+  }
+}
